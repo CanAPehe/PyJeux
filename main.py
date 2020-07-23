@@ -1,3 +1,5 @@
+#Je voudrais faire bouger mon perssonnage sur l'axe -X
+
 import pygame
 
 pygame.init()
